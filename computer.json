@@ -3,7 +3,7 @@
   "wake_word": "computer",
   "author": "Alex Gustafsson",
   "website": "https://github.com/JannisRoesner",
-  "model": "https://raw.githubusercontent.com/JannisRoesner/esphome/computer.tflite",
+  "model": "https://raw.githubusercontent.com/JannisRoesner/esphome/main/computer.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
